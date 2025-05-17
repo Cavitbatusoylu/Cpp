@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ders Kodları">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim28%28OOP %28Object Oriented Programlama%29%29">
+      <UniqueIdentifier>{188aafa0-a203-4627-bd4d-d86c739f2f5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29">
+      <UniqueIdentifier>{06f99d3b-d7b7-4cd9-89e7-195e4dcfd382}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim33%28Friend Sınıflar%29">
+      <UniqueIdentifier>{1fa310ec-25a8-4ec5-ac17-a84085fa5876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim35%28Try Catch ile Hata Yönetimi%29">
+      <UniqueIdentifier>{87265fcc-0b04-4886-ad90-76e54716b40f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim44%28Örnek C++ OOP Kapsamlı Uygulama Projesi%28STL List Kütüphane Kullanılarak%29%29">
+      <UniqueIdentifier>{539f3391-63c6-4d02-8d9e-b0bf92ec1036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ders Kodları\Eğitim46%28C++ Sınav-Mülakat Sorusu 5%29">
+      <UniqueIdentifier>{455387d1-7c2a-43ad-9149-3a2dd3d133e5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Eğitim1%28Temeller%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim2%28Değişkenler%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim4%28Cin kullanımı%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim5%28Kütüphane%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim6%28if-else%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim7%28Operatörler%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim8%28Switch Case%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim9%28Mülakat Sorusu%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim10%28Türkçe Karakter Kullanımı%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim11%28Döngüler%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim12%28Break-Continue%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim13%28Debugger-Breakpoint%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim14%28Fonksiyonlar%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim15%28Tek Boyutlu Diziler%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim16%28Çok Boyutlu Diziler%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim17%28Diziler Test Sorusu%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim19%28Algoritma%28Asal Bölenler+Performans Karşılaştırma%29%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim3%28++x ile x++%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim20%28const-static%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim21%28Try Catch%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim22%28Call by Value-Call by Reference%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim23%28Pointerlar%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim24%28Bellek Yönetimi%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim25%28Stack ve Heap%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim26%28Structs%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim27%28OOP %28Object Oriented Programlama%29%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim28%28OOP %28Object Oriented Programlama%29 2%29.cpp">
+      <Filter>Ders Kodları\Eğitim28%28OOP %28Object Oriented Programlama%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim28 Otomobil.cpp">
+      <Filter>Ders Kodları\Eğitim28%28OOP %28Object Oriented Programlama%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim18(Strings).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim29(Dosyalama İşlemleri).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim30(Inheritance(Kalıtım)).cpp">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Hayvan.cpp">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Kedi.cpp">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Kopek.cpp">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Kus.cpp">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim31(Virtual Function(Sanal Fonksiyon) ve Polymorphism).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim32%28Friend Fonksiyonlar%29.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Ogrenci.cpp">
+      <Filter>Ders Kodları\Eğitim33%28Friend Sınıflar%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Hesaplayıcı.cpp">
+      <Filter>Ders Kodları\Eğitim33%28Friend Sınıflar%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim34(Constructor%27larda Varsayılan Değer ve Inıtalizer List).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim35(Try Catch ile Hata Yönetimi).cpp">
+      <Filter>Ders Kodları\Eğitim35%28Try Catch ile Hata Yönetimi%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Ders Kodları\Eğitim35%28Try Catch ile Hata Yönetimi%29</Filter>
+    </ClCompile>
+    <ClCompile Include="hataSinifi.cpp">
+      <Filter>Ders Kodları\Eğitim35%28Try Catch ile Hata Yönetimi%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim36(Auto kullanımı).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim37(Lambda Expression, C++ Lambda Functions).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim38(Template Kullanımı).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim39(List Sınıfı).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim40(Vector Sınıfı).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim41(Vektörler ve OOP Kapsayıcı Midterm Sorusu ve Çözümü).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim42(Map Sınıfı).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim43(Map ve OOP Kapsayıcı Midterm Sorusu ve Çözümü).cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim44(Örnek C++ OOP Kapsamlı Uygulama Projesi(STL List Kütüphane Kullanılarak)).cpp">
+      <Filter>Ders Kodları\Eğitim44%28Örnek C++ OOP Kapsamlı Uygulama Projesi%28STL List Kütüphane Kullanılarak%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Ders Kodları\Eğitim44%28Örnek C++ OOP Kapsamlı Uygulama Projesi%28STL List Kütüphane Kullanılarak%29%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim45(C++ Sınav-Mülakat Sorusu)cpp.cpp">
+      <Filter>Ders Kodları</Filter>
+    </ClCompile>
+    <ClCompile Include="Eğitim46%28C++ Sınav-Mülakat Sorusu 5%29.cpp">
+      <Filter>Ders Kodları\Eğitim46%28C++ Sınav-Mülakat Sorusu 5%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Hesap.cpp">
+      <Filter>Ders Kodları\Eğitim46%28C++ Sınav-Mülakat Sorusu 5%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Eğitim28 Otomobil.h">
+      <Filter>Ders Kodları\Eğitim28%28OOP %28Object Oriented Programlama%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Hayvan.h">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Kedi.h">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Kus.h">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Kopek.h">
+      <Filter>Ders Kodları\Eğitim30%28Inheritance%28Kalıtım%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Ogrenci.h">
+      <Filter>Ders Kodları\Eğitim33%28Friend Sınıflar%29</Filter>
+    </ClInclude>
+    <ClInclude Include="hataSinifi.h">
+      <Filter>Ders Kodları\Eğitim35%28Try Catch ile Hata Yönetimi%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Ogrenci1.h">
+      <Filter>Ders Kodları\Eğitim44%28Örnek C++ OOP Kapsamlı Uygulama Projesi%28STL List Kütüphane Kullanılarak%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Ders Kodları\Eğitim44%28Örnek C++ OOP Kapsamlı Uygulama Projesi%28STL List Kütüphane Kullanılarak%29%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Hesap.h">
+      <Filter>Ders Kodları\Eğitim46%28C++ Sınav-Mülakat Sorusu 5%29</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
